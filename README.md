@@ -2,8 +2,7 @@
 I am Sam-kayode Marvellous but my friends call me **"sam-kay"** 
 
 
-I'm a Backend Developer and Petroleum Engineer currently learning Django. I'm passionate about Financial Technology, Sustainable Development Goals, FOSS.
-
+Front-end web developer currently focusing on the Vue Js framework,HTML,CSS with the drive to increase knowledge base and share knowledge to others
 ### Useful Links 🌻
 - [GitHub](https://github.com/Sam-kayode)
 - [Twitter](https://twitter.com/edoyakmas)
