@@ -8,5 +8,5 @@ Front-end web developer currently focusing on the Vue Js framework,HTML,CSS with
 - [Twitter](https://twitter.com/edoyakmas)
 - [LinkedIn](https://www.linkedin.com/in/marvellous-sam-kayode)  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sam-kayode&show_icons=true&theme=tokyonight)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sam-kayode&show_icons=true&theme=tokyonight)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-kayode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
